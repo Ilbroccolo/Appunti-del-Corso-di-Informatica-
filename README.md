@@ -21,4 +21,5 @@ Ogni materia ha una sua cartella dedicata. All'interno di ogni cartella, gli app
 
 * ### [Analisi Matematica 1](./Analisi-Matematica-1/)
 * ### [Programmazione 1](./Programmazione-1/)
-* ### [Architettura degli Elaboratori](./Architettura-degli-Elaboratori/)
+* ### [Architettura degli Elaboratori](./Architettura-degli-Elaboratori/)*
+* ### [Algoritimica](./Programmazione-1/)
